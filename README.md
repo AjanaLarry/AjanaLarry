@@ -1,45 +1,102 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Oluwajuwon 'Larry' Ajana
-========================================================================================================================================
+<h1 align="center">
+  Hey, I'm Juwon (Larry) 👋
+</h1>
 
-Web Developer | Cloud Engineer | Solutions Architect | DevOps 
--------------------------------------------------------------------------
+<h3 align="center">
+  Web Developer · Cloud Engineer · Solutions Architect · DevOps · AI Enthusiast
+</h3>
 
-I'm a creator and a cloud enthusiast passionate about using technology to create simple solutions to complex challenges. I design sustainable architectures, develop reliable infrastructures, and deploy distributed systems that guarantee operational excellence and optimize cost. I am interested in creating integrations that seamlessly deploy, configure, and manage cloud-based solutions.
-
-*   🌍  I'm based in Toronto, Canada
-*   🖥️  See my portfolio at [My Portfolio](http://ajanalarry.github.io/portfolio/)
-*   ✉️  You can contact me at [oluwajuwonajana@gmail.com](mailto:oluwajuwonajana@gmail.com)
-*   🧠  I'm learning Python, CloudComputing, IaaC, Docker, Terrafom, Kubernetes
-*   🤝  I'm open to collaborating on Cloud Migration, Design and Deployment projects
-### Skills
-<p align="left"><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="20" height="20" alt="JavaScript" /></a>
-                                <a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="20" height="20" alt="Python" /></a>
-                                <a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="20" height="20" alt="HTML5" /></a>
-                                <a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="20" height="20" alt="React" /></a>
-                                <a href="https://vuejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vuejs-colored.svg" width="20" height="20" alt="Vue" /></a>
-                                <a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="20" height="20" alt="CSS3" /></a>
-                                <a href="https://sass-lang.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/sass-colored.svg" width="20" height="20" alt="Sass" /></a>
-                                <a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="20" height="20" alt="Bootstrap" /></a>
-                                <a href="https://webpack.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/webpack-colored.svg" width="20" height="20" alt="Webpack" /></a>
-                                <a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="20" height="20" alt="NodeJS" /></a>
-                               <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="20" height="20" alt="PostgreSQL" /></a>
-                               <a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored-dark.svg" width="20" height="20" alt="Express" /></a>
-                                <a href="https://flask.palletsprojects.com/en/2.0.x/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/flask-colored-dark.svg" width="20" height="20" alt="Flask" /></a>
-                               <a href="https://www.adobe.com/uk/products/xd.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xd-colored-dark.svg" width="20" height="20" alt="XD" /></a>
-                               <a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="20" height="20" alt="Figma" /></a>
+<p align="center">
+  <em>Building simple solutions to complex problems — one cloud at a time ☁️</em>
 </p>
 
-### Socials
+<p align="center">
+  <a href="https://www.linkedin.com/in/oluwajuwon-ajana/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://www.twitter.com/LarryKodes" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+  <a href="https://www.instagram.com/LarryKodes" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="http://www.medium.com/@oluwajuwonajana" target="_blank">
+    <img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+  </a>
+  <a href="mailto:juwonbuilds@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+</p>
 
-<p align="left"> <a href="https://discord.com/users/ajlarry#3913" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/discord.svg" width="20" height="20" /></a> <a href="https://www.github.com/ajanalarry" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" width="20" height="20" /></a> <a href="https://www.linkedin.com/in/oluwajuwon-ajana-aab77431/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="20" height="20" /></a> <a href="http://www.medium.com/@oluwajuwonajana" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/medium-dark.svg" width="20" height="20" /></a> <a href="https://www.stackoverflow.com/users/19475882/ajlarry" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="20" height="20" /></a> <a href="https://www.twitter.com/LarryKodes" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="20" height="20" /></a></p>
-                    
-### Badges
+---
 
-<b>My GitHub Stats</b>
+## 👨🏾‍💻 About Me
 
-<a href="http://www.github.com/ajanalarry" border="5px solid white"><img src="https://github-readme-stats.vercel.app/api?username=ajanalarry&show_icons=true&hide=&count_private=true&title_color=ef4444&text_color=14b8a6&icon_color=ef4444&bg_color=0f172a&hide_border=true&show_icons=true" alt="ajanalarry's GitHub stats" /></a>
+I'm a **cloud-obsessed builder** based in **Toronto, Canada** 🇨🇦 who loves turning complex infrastructure challenges into elegant, cost-efficient solutions.
 
-<a href="http://www.github.com/ajanalarry"><img src="https://github-readme-streak-stats.herokuapp.com/?user=ajanalarry&stroke=14b8a6&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=14b8a6&currStreakLabel=ef4444&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" /></a>
+- 🏗️ I design **sustainable cloud architectures** and deploy **distributed systems** built for operational excellence
+- 🔌 I specialize in **cloud migrations**, seamless integrations, and infrastructure-as-code pipelines
+- 🚀 Currently levelling up in **Python**, **Terraform**, **Kubernetes**, and **Docker**
+- 🤝 Open to collaborating on **Cloud Design, Migration & Deployment** projects
+- 📁 See my work at **[Oluwajuwonajana.com](http://www.oluwajuwonajana.com/)**
 
-<a href="https://github.com/ajanalarry" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajanalarry&langs_count=10&title_color=ef4444&text_color=14b8a6&icon_color=ef4444&bg_color=0f172a&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+---
 
+## 🛠️ Tech Stack
+
+**Languages & Frameworks**
+
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=flat-square&logo=vue.js&logoColor=4FC08D)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
+![Sass](https://img.shields.io/badge/Sass-CC6699?style=flat-square&logo=sass&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Webpack](https://img.shields.io/badge/Webpack-8DD6F9?style=flat-square&logo=webpack&logoColor=black)
+
+**Cloud & DevOps**
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+
+**Web Building & CMS**
+
+![WordPress](https://img.shields.io/badge/WordPress-21759B?style=flat-square&logo=wordpress&logoColor=white)
+![Webflow](https://img.shields.io/badge/Webflow-4353FF?style=flat-square&logo=webflow&logoColor=white)
+![Shopify](https://img.shields.io/badge/Shopify-96BF48?style=flat-square&logo=shopify&logoColor=white)
+
+**Databases & Design**
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe_XD-470137?style=flat-square&logo=Adobe-XD&logoColor=#FF61F6)
+
+**AI & Machine Learning**
+
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74aa9c?style=flat-square&logo=openai&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat-square&logo=anthropic&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat-square&logo=github&logoColor=white)
+![Hugging Face](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black)
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajanalarry&stroke=14b8a6&background=0f172a&ring=ef4444&fire=ef4444&currStreakNum=14b8a6&currStreakLabel=ef4444&sideNums=14b8a6&sideLabels=14b8a6&dates=14b8a6&hide_border=true" alt="GitHub Streak" />
+</p>
+
+---
+
+## 🤙 Let's Connect
+
+I'm always open to meaningful conversations about cloud, tech, and building things that matter. Reach me at **[juwonbuilds@gmail.com](mailto:juwonbuilds@gmail.com)** or connect on [LinkedIn](https://www.linkedin.com/in/oluwajuwon-ajana/).
